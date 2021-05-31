@@ -56,7 +56,7 @@ After the version is published, verify it exists on the [Splunk Enterprise Secur
 
 ## More Information
 
-For more information about Ansible's Splunk Enterprise Security integration, join the `#ansible-security` channel on Freenode IRC, and browse the resources in the [Security Automation Working Group](https://github.com/ansible/community/wiki/Security-Automation) Community wiki page.
+For more information about Ansible's Splunk Enterprise Security integration, join the `#ansible-security` channel on [libera.chat](https://libera.chat/) IRC, and browse the resources in the [Security Automation Working Group](https://github.com/ansible/community/wiki/Security-Automation) Community wiki page.
 
 
 ## License
